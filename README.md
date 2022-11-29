@@ -11,4 +11,4 @@ Combining the advantages of multi-rotor vertical takeoff and landing and the hig
 Teensy 4.0, MPU6050, Servo and Other necessary components required to build the drone.
 
 # Disclaimer
-This is a flight controller for small micro aerial vehicles and is intended to be modified to suit your needs. It is NOT intended to be used on manned vehicles. Use and modify the code as your requirements.
+This is a flight controller for small aerial vehicles and is intended to be modified to suit your needs. It is NOT intended to be used on manned vehicles. Use and modify the code as your requirements.
